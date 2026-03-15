@@ -74,7 +74,3 @@ Detailed project explanation available here:
 
 [Project Documentation](Project-Documentation.docx)
 
----
-
-## Dashboard Preview
-![Dashboard](dashboard.png)
