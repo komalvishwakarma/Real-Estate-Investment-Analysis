@@ -72,7 +72,7 @@ The final system was deployed as an interactive **Streamlit application**, allow
 ## Full Project Documentation
 Detailed project explanation available here:
 
-[Project Documentation](Project Documentation.docx)
+[Project Documentation](Project-Documentation.docx)
 
 ---
 
